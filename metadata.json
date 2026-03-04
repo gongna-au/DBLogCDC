@@ -1,0 +1,5 @@
+{
+  "name": "DBLog Watermark Algorithm Visualizer",
+  "description": "An interactive dynamic visualization of the DBLog watermark algorithm for change data capture (CDC), demonstrating how it merges full snapshots with incremental logs without locking.",
+  "requestFramePermissions": []
+}
